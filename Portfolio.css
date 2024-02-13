@@ -1,0 +1,43 @@
+.myNav {
+    position: fixed;
+    width: 100%;
+    background-color:transparent;
+    height: 110px;
+    line-height: 30px;
+}
+
+.myNav ul{
+        list-style: none;
+        padding: ;
+}
+
+.myNav ul li{
+    display: inline;
+    padding: 7%;
+}
+
+.myNav ul li a{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+}
+body{
+    background-color: black;
+}
+
+#home{
+    color: antiquewhite;
+    text-align: left;
+    width: 600px;
+    padding-left: 180px;
+    padding-top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      
+}
+
+.myp {
+    color: antiquewhite;
+    text-decoration: underline;
+}
